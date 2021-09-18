@@ -1,0 +1,48 @@
+.buy-now-button{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.navbar img{
+    width: 150px;
+}
+.card{
+    border: none;
+}
+.bg-1{
+    background-image: url(hot-gadgets/bg-2.png);
+    background-repeat: no-repeat;
+    background-size: 10em;
+    background-origin: border-box;
+    background-position-y: bottom; 
+    padding-left: 130px;  
+}
+.bg-2{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+}
+.banner, .smartphone{
+    margin-bottom: 60px;
+}
+.card img{
+    width: 300px;
+}
+.text-warning{
+    text-decoration: none;
+}
+.categories{
+    margin-top: 70px;
+    height: 600px;
+}
+.last-pic img{
+    width: 100%;
+}
+.cat{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: yellow;
+}
+
+
